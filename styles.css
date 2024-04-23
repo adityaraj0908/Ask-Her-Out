@@ -67,3 +67,24 @@ h1
     cursor: pointer;
     font-family: "Kanit";
 }
+.not-first-title
+{
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+ul
+{
+    list-style-type: none;
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+.list   
+{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-family: "Noto Sans";
+    margin-bottom: 0;
+    font-weight: 700;
+}
