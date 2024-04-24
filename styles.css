@@ -103,3 +103,14 @@ ul
 {
     margin-top: 15px;
 }
+#no-1-para
+{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: "Noto Sans";
+    margin-bottom: 20px;
+    font-weight: 700;
+}
