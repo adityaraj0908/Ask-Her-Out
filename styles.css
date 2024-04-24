@@ -88,3 +88,18 @@ ul
     margin-bottom: 0;
     font-weight: 700;
 }
+.final-yes
+{
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: "Noto Sans";
+    margin-bottom: 0;
+    font-weight: 700;
+}
+#final-yes-line
+{
+    margin-top: 15px;
+}
